@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8z8xNbAjwKTmMfd8uDRlen9lX600aRzZOzNy4s8b9GsAUtbAlyspUB9GqK+nQpwRvvYeeV+Pn97Ai9x5eIPEA==",
+  "success": true,
+  "projectFilePath": "/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/DeepLinkDemo2.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac01/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

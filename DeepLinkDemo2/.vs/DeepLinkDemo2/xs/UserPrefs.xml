@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{67090C03-A6E5-4326-9434-9B0D5D5F410A}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeepLinkDemo2.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63436AA6-59F7-469B-BDB8-DBC2A111BDC3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeepLinkDemo2/MainPage.xaml">
+    <Files>
+      <File FileName="DeepLinkDemo2.iOS/Info.plist" />
+      <File FileName="DeepLinkDemo2.iOS/AppDelegate.cs" Line="31" Column="45" />
+      <File FileName="DeepLinkDemo2/App.xaml.cs" Line="30" Column="13" />
+      <File FileName="DeepLinkDemo2.Android/Properties/AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="DeepLinkDemo2/MainPage.xaml.cs" Line="15" Column="35" />
+      <File FileName="DeepLinkDemo2/MainPage.xaml" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeepLinkDemo2" expanded="True">
+            <Node name="DeepLinkDemo2" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="DeepLinkDemo2.Android" expanded="True" />
+            <Node name="DeepLinkDemo2.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DeepLinkDemo2.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.06157df695c4db17" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/App.xaml.cs" relfile="DeepLinkDemo2/App.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2.iOS/AppDelegate.cs" relfile="DeepLinkDemo2.iOS/AppDelegate.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

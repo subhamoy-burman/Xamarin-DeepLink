@@ -1,0 +1,14 @@
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/bin/Debug/netstandard2.0/DeepLinkDemo2.deps.json
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/bin/Debug/netstandard2.0/DeepLinkDemo2.dll
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/bin/Debug/netstandard2.0/ref/DeepLinkDemo2.dll
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/bin/Debug/netstandard2.0/DeepLinkDemo2.pdb
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.csprojAssemblyReference.cache
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.AssemblyInfoInputs.cache
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.AssemblyInfo.cs
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.csproj.CoreCompileInputs.cache
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.dll
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/ref/DeepLinkDemo2.dll
+/Users/imac01/Projects/DeepLinkDemo2/DeepLinkDemo2/obj/Debug/netstandard2.0/DeepLinkDemo2.pdb

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{01A59748-3A49-452E-931E-E946F252FBB8}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeepLinkDemo1.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.06157df695c4db17" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeepLinkDemo1.iOS/OpenAppiOS.cs">
+    <Files>
+      <File FileName="DeepLinkDemo1/MainPage.xaml" Line="17" Column="1" />
+      <File FileName="DeepLinkDemo1/MainPage.xaml.cs" Line="25" Column="66" />
+      <File FileName="DeepLinkDemo1.Android/OpenAppAndroid.cs" Line="8" Column="47" />
+      <File FileName="DeepLinkDemo1.iOS/OpenAppiOS.cs" Line="4" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeepLinkDemo1" expanded="True">
+            <Node name="DeepLinkDemo1.Android" expanded="True" />
+            <Node name="DeepLinkDemo1.iOS" expanded="True">
+              <Node name="OpenAppiOS.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DeepLinkDemo1.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63436AA6-59F7-469B-BDB8-DBC2A111BDC3" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/imac01/Projects/DeepLinkDemo1/DeepLinkDemo1/MainPage.xaml.cs" relfile="DeepLinkDemo1/MainPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/imac01/Projects/DeepLinkDemo1/DeepLinkDemo1/MainPage.xaml.cs" relfile="DeepLinkDemo1/MainPage.xaml.cs" line="24" column="1" />
+      <Breakpoint file="/Users/imac01/Projects/DeepLinkDemo1/DeepLinkDemo1.Android/OpenAppAndroid.cs" relfile="DeepLinkDemo1.Android/OpenAppAndroid.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

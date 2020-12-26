@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DeepLinkDemo1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#666666" Padding="24" CornerRadius="0">
+            <Label Text="Welcome first app" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Margin="24" Text="This is the App 1, this app will display how to open another app and pass data" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Press on Go to App2 button - it will  take you to the other app also you will be able to pass parameter, for iOS check info.plist. For Android simple package name will use" FontSize="16" Padding="30,0,30,0"/>
+        
+        <Button Text="Go to App2" Clicked="Button_Clicked"> </Button>
+    </StackLayout>
+
+</ContentPage>

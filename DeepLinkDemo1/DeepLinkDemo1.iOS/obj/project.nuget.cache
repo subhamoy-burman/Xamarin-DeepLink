@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMTO6aKKQroG7izUlqQ5YWrRaNoe4F4g3y82sj1ARYvEhaSwoTjgdGz4m+ZPUsXoo6/743oN5QQiIzBearGoRQ==",
+  "success": true,
+  "projectFilePath": "/Users/imac01/Projects/DeepLinkDemo1/DeepLinkDemo1.iOS/DeepLinkDemo1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac01/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/imac01/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
